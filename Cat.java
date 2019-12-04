@@ -6,6 +6,9 @@ public class Cat {
     public void eat() {
         System.out.println("It's time for food");
     }
+	public void jump() {
+        //There is wrong code of jump, need to be remove
+    }
 
     public static void main(String[] args) {
         Cat tima = new Cat();
