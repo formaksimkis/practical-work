@@ -6,6 +6,9 @@ public class Cat {
     public void eat() {
         System.out.println("It's time for food");
     }
+	public void jump() {
+        System.out.println("It's time for jump");
+    }
 
     public static void main(String[] args) {
         Cat tima = new Cat();
