@@ -3,6 +3,9 @@ public class Cat {
     String name;
     int age;
 	String sex;
+    public void eat() {
+        System.out.println("It's time for food");
+    }
 
     public static void main(String[] args) {
         Cat tima = new Cat();
