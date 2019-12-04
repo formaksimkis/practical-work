@@ -12,10 +12,12 @@ public class Cat {
         tima.age = 5;
         tima.name = "Tima";
 		tima.sex = "male";
+		// need tima.jump()
 		Cat barsik = new Cat();
         barsik.age = 3;
         barsik.name = "Barsik";
 		barsik.sex = "male";
+		// need barsik.jump()
     }
 
 }
