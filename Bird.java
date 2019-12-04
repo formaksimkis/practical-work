@@ -9,6 +9,10 @@ public class Bird {
         kesha.age = 3;
         kesha.name = "Kesha";
 		kesha.colour = "Green";
+        Bird petrusha = new Bird();
+        petrusha.age = 2;
+        petrusha.name = "Petrusha";
+		petrusha.colour = "Yellow";
     }
 
 }
